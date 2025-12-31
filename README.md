@@ -38,15 +38,12 @@
 
 
 
-
-
-
-</div>
-// My Technical Stack
+```dart
+// tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
-    "Core_Languages" : { "C++", "C#", "Java", "JavaScript", "Python", "Dart" },
+     "Core_Languages" : { "C++", "C#", "Java", "JavaScript", "Python", "Dart" },
     "Frontend"       : { "React.js", "HTML5", "CSS3", "Flutter" },
     "Backend"        : { "Node.js", "Express.js" },
     "Databases"      : { "MongoDB", "MySQL" },
@@ -55,20 +52,11 @@ class About extends Me {
     "Tools"          : { "Git", "Docker", "Postman" }
   };
 }
+```
 
-<br>
 
-```dart
-class About extends Me { 
-  const myProfile = {  
-    "Name" : "Amine Bendawya",
-    "Title" : "Software Engineer",
-    "Core_Stack" : { "C++", "Java", "MERN", "Flutter" },
-    "Currently_Working_On" : "Real-Time Chat Application",
-    "Learning" : { "Advanced Algorithms", "System Design" },
-    "Hobbies" : { "Coding", "Gaming", "Tech" }
-  };
-}## Hi there 👋
+
+
 
 <!--
 **Amine-bnd1/Amine-bnd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
