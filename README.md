@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Amine+Bendawya;Software+Engineer;Full+Stack+Developer;C%2B%2B+%26+" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Amine;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+
+<img src="https://komarev.com/ghpvc/?username=Amine-bnd1&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -61,28 +61,6 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I beleive *great software* is built twice:first in the mind as architecture, and second in the IDE as code.<br>
 
 
-<div align="center"> 
-  <h3>🚀 My GitHub Stats</h3>
-  
-  <a href="https://github.com/Amine-bnd1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amine-bnd1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Amine's Stats" />
-  </a>
-  
-  <br>
-  
-  <a href="https://github.com/Amine-bnd1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-bnd1&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-  </a>
-  
-  <br>
-
-  <a href="https://github.com/Amine-bnd1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine-bnd1&theme=nord&hide_border=true" alt="Streak Stats" />
-  </a>
-
-</div>
-
-<hr></hr>
 
 **Code Cycle**<br>
 
@@ -92,9 +70,27 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+<br>
+<div align="center">
 
+  <h2>🚀 GitHub Analytics</h2>
 
+  <a href="https://github.com/Amine-bnd1">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Amine-
+  </a>
+  
+  <br><br>
 
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine-bnd1&theme=nord&hide_border=true" alt="Streak" height="195" />
+      </td>
+  </table>
+
+</div>
+<br>
+<hr>
 
 <!--
 **Amine-bnd1/Amine-bnd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
