@@ -38,6 +38,19 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 </div>
+// My Technical Stack
+
+class About extends Me { 
+  const myTools = {  
+    "Core_Languages" : { "C++", "C#", "Java", "JavaScript", "Python", "Dart" },
+    "Frontend"       : { "React.js", "HTML5", "CSS3", "Flutter" },
+    "Backend"        : { "Node.js", "Express.js" },
+    "Databases"      : { "MongoDB", "MySQL" },
+    "Editors"        : { "VS Code", "Neovim" },
+    "OS"             : { "GNU/Linux", "Windows" },
+    "Tools"          : { "Git", "Docker", "Postman" }
+  };
+}
 
 <br>
 
