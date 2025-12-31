@@ -61,6 +61,44 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I beleive *great software* is built twice:first in the mind as architecture, and second in the IDE as code.<br>
 
 
+<div align="center"> 
+  <h3>🚀 My GitHub Stats</h3>
+  
+  <a href="https://github.com/Amine-bnd1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amine-bnd1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Amine's Stats" />
+  </a>
+  
+  <br>
+  
+  <a href="https://github.com/Amine-bnd1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-bnd1&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  </a>
+  
+  <br>
+
+  <a href="https://github.com/Amine-bnd1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine-bnd1&theme=nord&hide_border=true" alt="Streak Stats" />
+  </a>
+
+</div>
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
 
 
 
